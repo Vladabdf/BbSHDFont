@@ -1,0 +1,90 @@
+title: HD BbS Menu Font
+originalAuthor: Vladabdf
+description: Make the fuzzy font look good instead of bad. Thanks for being lazy, Squeenix.
+assets:
+# Far as I'm aware, this covers all versions.
+# English
+  - name: remastered/arc_en/system/FontEn.arc/US_FontEn_arc0.png
+    method: copy
+    source:
+    - name: remastered/arc_en/system/FontEn.arc/US_FontEn_arc0.png
+  - name: remastered/arc_en/system/FontEn.arc/US_FontEn_arc1.png
+    method: copy
+    source:
+    - name: remastered/arc_en/system/FontEn.arc/US_FontEn_arc1.png
+  - name: remastered/arc_en/system/FontEn.arc/US_FontEn_arc2.png
+    method: copy
+    source:
+    - name: remastered/arc_en/system/FontEn.arc/US_FontEn_arc2.png
+  - name: remastered/arc_en/system/FontEn.arc/US_FontEn_arc5.png
+    method: copy
+    source:
+    - name: remastered/arc_en/system/FontEn.arc/US_FontEn_arc5.png
+# Spanish
+  - name: remastered/arc_es/system/FontEs.arc/SP_FontEn_arc0.png
+    method: copy
+    source:
+    - name: remastered/arc_en/system/FontEn.arc/US_FontEn_arc0.png
+  - name: remastered/arc_es/system/FontEs.arc/SP_FontEn_arc1.png
+    method: copy
+    source:
+    - name: remastered/arc_en/system/FontEn.arc/US_FontEn_arc1.png
+  - name: remastered/arc_es/system/FontEs.arc/SP_FontEn_arc2.png
+    method: copy
+    source:
+    - name: remastered/arc_en/system/FontEn.arc/US_FontEn_arc2.png
+  - name: remastered/arc_es/system/FontEs.arc/SP_FontEn_arc5.png
+    method: copy
+    source:
+    - name: remastered/arc_en/system/FontEn.arc/US_FontEn_arc5.png
+# French
+  - name: remastered/arc_fr/system/FontFr.arc/FR_FontEn_arc0.png
+    method: copy
+    source:
+    - name: remastered/arc_en/system/FontEn.arc/US_FontEn_arc0.png
+  - name: remastered/arc_fr/system/FontFr.arc/FR_FontEn_arc1.png
+    method: copy
+    source:
+    - name: remastered/arc_en/system/FontEn.arc/US_FontEn_arc1.png
+  - name: remastered/arc_fr/system/FontFr.arc/FR_FontEn_arc2.png
+    method: copy
+    source:
+    - name: remastered/arc_en/system/FontEn.arc/US_FontEn_arc2.png
+  - name: remastered/arc_fr/system/FontFr.arc/FR_FontEn_arc5.png
+    method: copy
+    source:
+    - name: remastered/arc_ne/system/FontEn.arc/US_FontEn_arc5.png
+# German
+  - name: remastered/arc_de/system/FontDe.arc/GR_FontEn_arc0.png
+    method: copy
+    source:
+    - name: remastered/arc_en/system/FontEn.arc/US_FontEn_arc0.png
+  - name: remastered/arc_de/system/FontDe.arc/GR_FontEn_arc1.png
+    method: copy
+    source:
+    - name: remastered/arc_en/system/FontEn.arc/US_FontEn_arc1.png
+  - name: remastered/arc_de/system/FontDe.arc/GR_FontEn_arc2.png
+    method: copy
+    source:
+    - name: remastered/arc_en/system/FontEn.arc/US_FontEn_arc2.png
+  - name: remastered/arc_de/system/FontDe.arc/GR_FontEn_arc5.png
+    method: copy
+    source:
+    - name: remastered/arc_en/system/FontEn.arc/US_FontEn_arc5.png
+# Italian
+  - name: remastered/arc_it/system/FontIt.arc/IT_FontEn_arc0.png
+    method: copy
+    source:
+    - name: remastered/arc_en/system/FontEn.arc/US_FontEn_arc0.png
+  - name: remastered/arc_it/system/FontIt.arc/IT_FontEn_arc1.png
+    method: copy
+    source:
+    - name: remastered/arc_en/system/FontEn.arc/US_FontEn_arc1.png
+  - name: remastered/arc_it/system/FontIt.arc/IT_FontEn_arc2.png
+    method: copy
+    source:
+    - name: remastered/arc_en/system/FontEn.arc/US_FontEn_arc2.png
+  - name: remastered/arc_it/system/FontIt.arc/IT_FontEn_arc5.png
+    method: copy
+    source:
+    - name: remastered/arc_en/system/FontEn.arc/US_FontEn_arc5.png
